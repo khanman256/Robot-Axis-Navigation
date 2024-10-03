@@ -1,3 +1,4 @@
+// Coded with fellow Binghamton University student William Manos
 #include <avr/io.h>
 
 #define F_CPU 16000000 //must be before delay
